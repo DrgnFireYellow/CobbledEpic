@@ -1,0 +1,13 @@
+name = "Cobbled Epic"
+author = "DrgnFireYellow"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ca8a7cdecd3a72047a61e61e09fcb0574c2971109d1b762dd9657e3441607c01"
+
+[versions]
+fabric = "0.14.24"
+minecraft = "1.20.1"
